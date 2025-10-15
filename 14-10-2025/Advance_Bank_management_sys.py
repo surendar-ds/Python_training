@@ -166,7 +166,7 @@ def delete_account():
 st.set_page_config(page_title="Pro Bank Manager", page_icon="🏦", layout="centered")
 
 st.title("🏦 Chithapphu Mercantile Bank ")
-st.write("A Part of Komal Group of Company")
+st.write("       A Part of Komal Group of Company       ")
 
 # --- Sidebar Navigation ---
 st.sidebar.title("Navigation")
